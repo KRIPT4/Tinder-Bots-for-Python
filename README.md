@@ -27,7 +27,7 @@ NOTE: tinder_autologin_bot_like_px.py (Proxy Version)
 
 ## Changelog
 
-**v1.0** May 12, 2017
+**v1.0** Jul 28, 2017
 - First version!
 - Add tinder_autologin_bot.py
 - Add tinder_autologin_bot_like.py
